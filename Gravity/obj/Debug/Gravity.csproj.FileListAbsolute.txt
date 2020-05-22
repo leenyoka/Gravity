@@ -1,0 +1,34 @@
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\ApplicationIcon.png
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Background.png
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Gravity.dll
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Gravity.pdb
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\AppManifest.xaml
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Gravity.xap
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\App.g.i.cs
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\MainPage.g.i.cs
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Page1.g.i.cs
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Gravity.g.resources
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Gravity.dll
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Gravity.pdb
+C:\Users\Linda\Desktop\2012 Self-disvocery Project\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\XapCacheFile.xml
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\ApplicationIcon.png
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Background.png
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Gravity.dll
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Gravity.pdb
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\AppManifest.xaml
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Gravity.xap
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\ResolveAssemblyReference.cache
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\App.g.i.cs
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\MainPage.g.i.cs
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Page1.g.i.cs
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Gravity.g.resources
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Gravity.dll
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\Gravity.pdb
+H:\Academic\Windows Apps\Application 8\Gravity\Gravity\obj\Debug\XapCacheFile.xml
